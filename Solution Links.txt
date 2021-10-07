@@ -1,0 +1,71 @@
+Statement 1
+Make a Column of 12 Bulb and number them from 1 to 12 from left to right. Glow the Odd
+Bulbs for 1 second (even will be off) and then even for 1 second (odd will be off) and this will
+be continued in loop until simulation is turned off.
+1 to 12 led will glow in even and odd pattern
+0,2,4,6 …. Even number leds will glow at first for 1 seconds
+Then 1 second pause where every led will be off
+Then 1,3,5,7 .. odd number led will glow
+
+
+Link: https://www.tinkercad.com/things/0qCnajEboOs-aarohan-problem-1
+
+---------------------------------------------------------------------------
+Statement 2
+Glow the LED present in the prime places between(1-12)
+**consider 1 as the prime number.
+
+Link: https://www.tinkercad.com/things/5Y1ihMyHSQt-aarohan-problem-2
+
+---------------------------------------------------------------------------------
+
+Statement 3
+Turn leds on serially from 1 to 12
+First led will glow for 1.25 second followed by the second and so on for 0.75 second each
+without any gap in between them. Make sure that once you move on to the next led the
+previous one should be kept on.
+
+Link: https://www.tinkercad.com/things/eHnvyp1jFRi-aarohan-problem-3
+--------------------------------------------------------------------------------
+
+Statement 4
+Turn led from 1 to 12 serially in the pack of three and switch off the previous one
+For ex.. 1,2,3 will glow then 1 will be off and 2,3,4 will glow and this pattern will go on until 12.
+
+Link: https://www.tinkercad.com/things/db1i2gqfV7Z-aarohan-problem-4
+-------------------------------------------------------------------------------
+
+Statement 5
+Make a line of 12 LED ,First and last led will glow for 1.25 second then it will come inwards to
+the middle and then go outwards back to the initial condition.
+
+Link: https://www.tinkercad.com/things/dfd3iNcWRhP-aarohan-problem-5
+--------------------------------------------------------------------------------
+
+Statement 6
+Use 4 rgb led and program them in a way that they change their colour every second and at
+no time should any 2 rgb emit the same coloured light.
+
+Link: https://www.tinkercad.com/things/4c4Ppwq72tl-aarohan-problem-6
+--------------------------------------------------------------------------------
+
+Statement 7
+Use the potentiometer to glow the number of LED in increasing order and also drive a motor
+whose rpm should be in reverse order.
+Ex. the more the value of the potentiometer, the more the number of led will glow from 0-12
+and lesser should be the motor rpm.
+
+Link: https://www.tinkercad.com/things/8FohI5sxrxi-aarohan-problem-7
+---------------------------------------------------------------------------------
+
+Statement 8:
+Make a series of 7 light bulbs
+Use push buttons and glow the number of bulb according to the number of times the push
+button is pressed in the particular time at the beginning
+If push button is pressed 1 time the 1st bulb will glow and if 2 times 2nd will glow and first will
+be turned off
+
+Link: https://www.tinkercad.com/things/1gn6kKiJcjo-aarohan-problem-8
+----------------------------------------------------------------------------------
+
+>>>>>>>>>>>>>>>>>>>END<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
